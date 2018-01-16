@@ -1,0 +1,16 @@
+{
+  "name": "google-home-beebotte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beebotte": "^1.2.1",
+    "config": "^1.29.2",
+    "google-home-notifier": "^1.2.0"
+  }
+}
